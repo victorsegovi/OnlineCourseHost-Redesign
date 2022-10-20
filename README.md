@@ -1,1 +1,1 @@
-# OnlineCourseHost-Redisign
+# OnlineCourseHost-Redesign
